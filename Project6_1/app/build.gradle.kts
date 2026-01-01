@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.cookandroid.project6_1"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.cookandroid.project6_1"
         minSdk = 33
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
