@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- parent 부분을 Theme.Material3.DayNight.ActionBar 로 수정 -->
+    <style name="Base.Theme.Project7_2" parent="Theme.Material3.Dark">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Project7_2" parent="Base.Theme.Project7_2" />
+</resources>
