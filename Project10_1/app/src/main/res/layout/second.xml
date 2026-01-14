@@ -12,8 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:id="@+id/btnNewActivity"
-            android:text="새 화면 열기"
+            android:id="@+id/btnReturn"
+            android:text="돌아가기"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
     </LinearLayout>
